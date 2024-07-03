@@ -17,7 +17,7 @@ def extract_data(input_file, output_file, move_name, joint):
         with open(input_file, 'r') as infile, open(output_file, 'a') as outfile:
             # Записываем строки NAME и MOD
             outfile.write(f"NAME {mod_name} {move_name}\n")
-            outfile.write(f"MOD {mod_name}\n")
+            outfile.write(f"MOD /{mod_name}\n")
 
             turn_number = 1
             for line in infile:
