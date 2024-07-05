@@ -1,2 +1,2 @@
-toribash сохранение движений из реплеев из Steam\steamapps\common\Toribash\replay\my replays или другой папки с реплеями в файл movememory.mm по пути Steam\steamapps\common\Toribash\data\script\system .
-После запуска скрипта и получаем скопированный набор движений из реплеев в игре. Вводим 3 строки, указывая имя файла реплея, название движения, номер игрока, указанный в реплее.  
+toribash saving movements from replays from Steam\steamapps\common\Toribash\replay\my replays or another folder with replays into the file movememory.mm along the path Steam\steamapps\common\Toribash\data\script\system .
+After running the script, we get a copied set of moves from replays in the game. Enter 3 lines, indicating the name of the replay file, the name of the movement, and the player number indicated in the replay.
