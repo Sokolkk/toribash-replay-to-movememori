@@ -17,7 +17,7 @@ for root, dirs, files in os.walk(current_directory):
             print(f"Найдена папка: {dir} в каталоге {root}")
 
 # Объединяем имена папок в одну строку, разделяя их "; "
-result = "; ".join(folder_names)
+result = ";".join(folder_names)
 
 # Проверяем, найдены ли папки
 if result:
